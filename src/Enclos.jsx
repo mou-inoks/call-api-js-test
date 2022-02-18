@@ -44,7 +44,6 @@ class Table extends Component{
         </tr>
       )
     })
-
   }
 
     onClick = (enclosId) => {
